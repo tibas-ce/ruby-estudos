@@ -1,5 +1,4 @@
-# Peça ao usuário para digitar sua idade e diga se ele é 
-# criança, adolescente, adulto ou idoso.
+# Peça ao usuário para digitar sua idade e diga se ele é criança, adolescente, adulto ou idoso.
 
 # Variáveis
 nome = gets.chomp
